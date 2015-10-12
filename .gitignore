@@ -44,8 +44,8 @@ $RECYCLE.BIN/
 
 ### Android template
 # Built application files
-#*.apk
-#*.ap_
+*.apk
+*.ap_
 
 # Files for the Dalvik VM
 *.dex
@@ -156,3 +156,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
+# NPP
+*.bak
+
+# Misc.
+/release/
