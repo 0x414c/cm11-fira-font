@@ -35,15 +35,39 @@
             <file>FiraSans-ThinItalic.ttf</file>
         </fileset>
     </family>
-	
-	<family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-medium</name>
+        </nameset>
+        <fileset>
+            <file>FiraSans-Medium.ttf</file>
+            <file>FiraSans-MediumItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-black</name>
+        </nameset>
+        <fileset>
+            <file>FiraSans-Ultra.ttf</file>
+            <file>FiraSans-UltraItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
         <nameset>
             <name>monospace</name>
+            <name>sans-serif-monospace</name>
+            <name>serif-monospace</name>
+            <name>monaco</name>
+            <name>courier</name>
+            <name>courier new</name>
         </nameset>
         <fileset>
             <file>FiraMono-Regular.ttf</file>
-			<file>FiraMono-Medium.ttf</file>
-			<file>FiraMono-Bold.ttf</file>
+            <file>FiraMono-Bold.ttf</file>
         </fileset>
     </family>
 </familyset>
