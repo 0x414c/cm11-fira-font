@@ -42,6 +42,7 @@
         </nameset>
         <fileset>
             <file>FiraMono-Regular.ttf</file>
+			<file>FiraMono-Medium.ttf</file>
 			<file>FiraMono-Bold.ttf</file>
         </fileset>
     </family>
